@@ -1,0 +1,2 @@
+# nexus-public
+maven project
